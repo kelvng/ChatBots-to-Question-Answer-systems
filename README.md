@@ -41,4 +41,4 @@ w2v = KeyedVectors.load_word2vec_format(model_path, fvocab=None, binary=True, en
 print(w2v.similar_by_word('anh'))
 ```
 ---
-## Using LSTM + Attention
+
